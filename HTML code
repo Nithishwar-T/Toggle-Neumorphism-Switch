@@ -10,13 +10,13 @@
   <body>
     <label class="switch">
       <input type="checkbox" />
-      <div class="slider slider--0">ON</div>
+      <div class="slider slider--0">CLOSE</div>
       <div class="slider slider--1">
         <div></div>
         <div></div>
       </div>
       <div class="slider slider--2"></div>
-      <div class="slider slider--3">OFF</div>
+      <div class="slider slider--3">OPEN</div>
     </label>
   </body>
 </html>
